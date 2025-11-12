@@ -16,3 +16,11 @@ run compare between methods:
 cd ./src
 python main.py
 ```
+
+---
+
+How to build my own leader board?
+
+Here the presented `./src/lb.pickle` is MMLU result with 395 models, forming a 2d score matrix.
+
+More leader boards are listed in ./pickle. You can check their format, and build your own leader board pickle for further analysis.
