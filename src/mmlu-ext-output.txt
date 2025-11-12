@@ -1,0 +1,12 @@
+sample.pickle
+[np.float64(0.0678), np.float64(0.0164), np.float64(0.0166), np.float64(0.0054), np.float64(0.0049), np.float64(0.0044), np.float64(0.0031)]
+pca.pickle
+[np.float64(0.0514), np.float64(0.0356), np.float64(0.0168), np.float64(0.0111), np.float64(0.0069), np.float64(0.0051), np.float64(0.0039)]
+enc.pickle
+[np.float64(0.0338), np.float64(0.0267), np.float64(0.0179), np.float64(0.0188), np.float64(0.0166), np.float64(0.0152), np.float64(0.0127)]
+bestsample.pickle
+[np.float64(0.0348), np.float64(0.0113), np.float64(0.0057), np.float64(0.0045), np.float64(0.0034), np.float64(0.0023), np.float64(0.0023)]
+anneal.pickle
+[np.float64(0.0472), np.float64(0.0134), np.float64(0.0087), np.float64(0.0058), np.float64(0.0038), np.float64(0.0027), np.float64(0.0017)]
+hiking.pickle
+[np.float64(0.0376), np.float64(0.0134), np.float64(0.0069), np.float64(0.0051), np.float64(0.0031), np.float64(0.0026), np.float64(0.0018)]
